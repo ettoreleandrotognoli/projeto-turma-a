@@ -1,3 +1,3 @@
-# Ettore
+# Ettore Leandro Tognoli
 
 ---
