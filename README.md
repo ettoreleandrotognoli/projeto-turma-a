@@ -14,3 +14,8 @@ Telefone: XXXXXXXXXXXXX
 E-Mail: XXXXXXXXXXX
 
 ---
+
+## Experiencia:
+
+- Prof. Unimar
+- Aquaponia
