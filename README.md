@@ -1,7 +1,5 @@
 # Prof. Ettore Leandro Tognoli
 
-teste
-
 ---
 
 
